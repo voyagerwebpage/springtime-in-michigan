@@ -1,0 +1,83 @@
+html {
+    background-color: lavender;
+}
+
+
+/* changing body here: */
+body {
+    /* adding border to the webpage */
+    min-height: 100vh;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 1rem;
+    border-left: 1px solid #333;
+    border-right: 1px solid #333;
+
+    /* font-family and font-size here*/
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+}
+
+
+/* changing header here*/
+header {
+    /* background color of the header here*/
+    background-color: aliceblue;
+}
+
+
+/* changing nav here: */
+nav {
+    /* background color of the nav here*/
+    background-color: honeydew;
+
+    /* some other changes: */
+    font-size: 60%;
+    padding: 1%;
+}
+
+
+/* changing main here: */
+main {
+    /* changing the background color of main element: */
+    background-color: lavenderblush;
+
+    /* changing the font size of the main element: */
+    font-size: 20px;
+}
+
+/* changing footer here: */
+footer {
+    /* changing background color of footer here:*/
+    background-color: honeydew;
+}
+
+
+/* changing list here: */
+li {
+    /* changing list element display here: */
+    display: inline-block;
+
+    /* changing list element width here: */
+    width: 200px;
+}
+
+
+/* changing h1 here: */
+h1 {
+    /* text alignment changed here: */
+    text-align: center;
+
+    /* font family changed here: */
+    font-family:'Gill Sans', 'Gill Sans MT', 'Trebuchet MS';
+
+    /* color changed here: */
+    color: #f88d2f;
+}
+
+
+/* changing paragraph here: */
+p {
+    /* line-height changed here: */
+    line-height: 120%;
+}
